@@ -1,0 +1,3 @@
+SRC += muse.c
+RGBLIGHT_ENABLE = no
+RBG_MATRIX_ENABLE = no
